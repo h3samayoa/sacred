@@ -1,6 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = '𓆩♱𓆪' 
+title = '𓆩♱𓆪'
 
 [params]
-  logo = '/images.buster-sword.png'
+  logo = "/images/bible.png"
+  author = 'sacred'

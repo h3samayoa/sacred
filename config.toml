@@ -1,3 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '𓆩♱𓆪' 
+
+[params]
+  logo = '/images.buster-sword.png'
